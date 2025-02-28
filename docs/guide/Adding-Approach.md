@@ -1,6 +1,6 @@
 # 添加方式
 
-## URL Scheme
+## URL Schemce
 URL Scheme 的入口在主页右下角的 Fab 按钮中，它通过[ URL Scheme 协议](https://en.m.wikipedia.org/wiki/Uniform_Resource_Identifier) 打开特定页面。
 详情见 [URL Scheme](/URL-Scheme-Usage.md)
 
